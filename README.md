@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://portfolio-sm-shahriarruet14.vercel.app/"  target="_blank">Shahriar </a></h1>
 <h3 align="center">Full Stack Software Engineer at <a href="https://www.reddotdigitalit.com/" target="_blank">Red<span style="color: red;">●</span>Digital </a> </h3>
 <p align="center">
-<h5 align="center">ReactJS | NextJS | NestJS | Spring Boot | Ruby On Rails </h5>
+<h5 align="center">ReactJS | NextJS | NestJS | NodeJS | Ruby On Rails </h5>
 </p>
 
 <p align="center">
